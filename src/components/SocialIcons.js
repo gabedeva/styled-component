@@ -11,7 +11,7 @@ export default function SocialIcons() {
         </li>
           <li>
           <a href='https://facebook.com'>
-            <FaTwitter />
+            <FaFacebook />
             </a>
         </li>
             
